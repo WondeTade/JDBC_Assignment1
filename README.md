@@ -13,5 +13,5 @@ create table `sqlandjava`. `people`(
 	INSERT INTO sqlandjava .`people` (`person_id`, `firstname`, `lastname`) VALUES ('1', 'Anna', 'Bolt');
 	INSERT INTO sqlandjava .`people` (`person_id`, `firstname`, `lastname`) VALUES ('2', 'Carl', 'Dolk');
 	INSERT INTO sqlandjava .`people` (`person_id`, `firstname`, `lastname`) VALUES ('3', 'Erik', 'Fram');
-  insert into sqlandjava .`people` (`person_id`, `firstname`, `lastname`) values ('4', 'Gina', 'Hult');
+  	insert into sqlandjava .`people` (`person_id`, `firstname`, `lastname`) values ('4', 'Gina', 'Hult');
     
